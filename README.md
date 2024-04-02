@@ -26,7 +26,7 @@ REGISTER NUMBER: 212222230096
 ```
 
 ### Read image and convert it to grayscale image
-
+```
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -46,7 +46,7 @@ plt.imshow(gray)
 plt.title("Gray Image")
 plt.axis("off")
 plt.show()
-
+```
 ### OUTPUT:
 
 ![image](https://github.com/niraunjana/Edge-Linking-using-Hough-Transformm/assets/119395610/0dd4e6c0-9023-49b2-a65b-02281b48091f)
