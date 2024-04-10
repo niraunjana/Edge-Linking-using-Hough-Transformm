@@ -21,8 +21,8 @@ Display the result.
 
 ## Program:
 ```
-DEVELOPED BY: DEEPIKA S
-REGISTER NUMBER: 212222230028
+DEVELOPED BY: NIRAUNJANA GAYATHRI G R
+REGISTER NUMBER: 212222230096
 ```
 
 ### Read image and convert it to grayscale image
